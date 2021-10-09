@@ -1,0 +1,13 @@
+{
+  "name": "event-driven",
+  "version": "1.0.0",
+  "description": "event-driven-architecture-app",
+  "main": "index.js",
+  "author": "victor nwagu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "nodemailer": "^6.6.5"
+  }
+}
